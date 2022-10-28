@@ -2,7 +2,7 @@
 
 * 클라이언트가 웹서버에게 요청하는 목적 및 그 종류를 알리는 수단을 말한다
 
-![img](https://qph.cf2.quoracdn.net/main-qimg-3647c77a51c27acc7af323b648be23e9)
+![img](03_HTTP_Request_Methods.assets/main-qimg-3647c77a51c27acc7af323b648be23e9.png)
 
 1. **<u>GET</u>**
    * 리소스(데이터)를 받기 위함
